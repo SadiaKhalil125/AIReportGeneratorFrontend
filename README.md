@@ -53,7 +53,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/genai-report-generator.git
+git clone https://github.com/SadiaKhalil125/AIReportGeneratorFrontend.git
 cd genai-report-generator
 ```
 
