@@ -54,7 +54,7 @@
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/SadiaKhalil125/AIReportGeneratorFrontend.git
-cd genai-report-generator
+cd AIReportGeneratorFrontend
 ```
 
 ### 2. Backend Setup
