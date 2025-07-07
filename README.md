@@ -1,3 +1,5 @@
+**Live Preview** : https://vercel.com/sadiakhalil125s-projects/ai-report-generator-frontend-8pds
+
 # GenAI Report Generator
 
 <div align="center">
