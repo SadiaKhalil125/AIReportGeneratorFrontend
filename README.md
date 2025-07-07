@@ -1,4 +1,4 @@
-**Live Preview** : https://vercel.com/sadiakhalil125s-projects/ai-report-generator-frontend-8pds
+**Live Preview** : https://ai-report-generator-frontend.vercel.app/
 
 # GenAI Report Generator
 
